@@ -5,6 +5,6 @@
 - project: ATrade
   role: Creator
   duration: 2020 &mdash; Present
-  url: https://github.com/W-in-W/ATrade
+  url: "https://github.com/W-in-W/ATrade"
   description: Program simplifies calculations related to trading on the MICEX stock exchange.
  
